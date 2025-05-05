@@ -1,0 +1,51 @@
+supplier_id,supplier_name,address,state,country,latitude,longitude,on_time_delivery,defect_rates,minimum_quantity,lead_time_days
+4e39c73c-cd95-40bb-9147-dd59a314e460,Leblanc PLC,"74364 Klein Circle
+Paulview, MA 50991",Bavaria,Germany,-12.8810235,-78.302293,98.68,0.03,88,3
+6f0b2f85-1b47-481f-b1ce-1efb575ef911,Williams-Schmidt,"7591 Irwin Lights Apt. 942
+Deborahfort, IL 14092",Berlin,Germany,26.983038,45.767494,91.88,4.46,166,3
+7151912f-78c6-4e92-8a0a-c22d1cf5182a,Barnes Inc,"USS Knight
+FPO AA 91616",Hamburg,Germany,15.260782,99.338567,97.06,3.44,55,5
+ddc4895c-0c9c-42d8-967a-7bab0bcd826f,"Lindsey, Watkins and Lee","80418 Thomas Union Suite 084
+New Shariton, OR 78660",Hesse,Germany,-54.157265,38.749515,94.31,0.43,127,5
+99ef18d5-20f6-41b0-8eab-48c8c89b7b4f,Foster and Sons,"01506 Lee Lane
+Lake Robert, MO 07996",Saxony,Germany,81.6849215,175.218694,97.65,4.9,144,5
+e1e026fc-f7ec-49ba-a21a-8145aecc08b9,Bradley LLC,"765 Fox Roads Suite 515
+Brendanbury, WY 54306",Beijing,China,83.9199385,-59.267057,97.5,2.8,40,5
+57ed64bb-87c5-4ba9-a40d-7309a88f17fd,Williams-Martin,"328 Lee Rapids Suite 056
+East Nicholas, AR 60225",Shanghai,China,-34.70763,-106.866788,99.95,1.83,68,5
+4f7a7b81-c522-47db-bf19-379c0eceafdc,Phillips-Wong,"96857 Meza Flat Apt. 000
+Jonesshire, MT 99042",Guangdong,China,57.2165195,124.623488,92.85,2.61,103,5
+cbb18357-f7d7-41b8-bd3d-698e43a2d169,"White, Taylor and Fox","956 Vaughn Unions
+Pamelafurt, ID 23097",Zhejiang,China,80.2158315,73.78004,95.6,4.33,152,5
+138edbba-c5b1-4a8c-9ed8-5a2747c513f4,Cabrera-Gaines,"5149 Matthew Manors Apt. 987
+West Kaitlin, FM 52130",Jiangsu,China,-50.9599045,-95.101779,98.63,1.79,53,5
+390f6752-5d96-4618-a44e-f2d0b0ecf651,"Estrada, Jordan and Gibson","77748 Steven Mission Apt. 709
+New John, VT 51427",California,United States,44.608895,-167.625338,97.88,4.87,83,2
+56efb4d2-1821-4707-bc37-f49583c5ca7c,"Peterson, Benson and Fernandez","12687 Bradley Mews
+Barnesview, MP 33451",Texas,United States,-31.29352,-105.857594,95.25,0.61,89,2
+4471e42c-c783-44ae-bb0f-1a96796bdc07,Serrano-Le,"45356 Michele Greens Suite 254
+Davisfurt, IN 09091",New York,United States,44.6339485,49.058097,97.96,0.08,77,2
+99386407-496c-4ecb-91a0-90fcaad375f6,Sanchez-Johnson,"8702 Kevin Brook
+Raybury, CA 36818",Florida,United States,-59.217379,-155.908786,95.47,2.4,176,2
+8ffe84ba-a6ff-41a2-a90b-f82ddfb2eddc,Acosta-Floyd,"38194 Camacho Wall
+Webbside, GU 96400",Illinois,United States,-13.1535865,-2.695595,98.86,2.1,122,2
+74dacff0-a8c0-49a9-b3da-357faf06d158,Henderson LLC,"5808 Williams Passage
+Laurastad, VI 26171",Mexico City,Mexico,42.785114,101.280899,95.15,4.76,182,3
+7ad260fc-f984-4d99-acb5-7019b60f5f1c,"Michael, Huff and Bryan","USNS Gray
+FPO AP 13902",Jalisco,Mexico,61.127273,18.888736,95.95,0.64,125,3
+65c0991f-aaf7-41fa-88f9-91919654701c,Sanders-Campbell,"298 Peters Estate Suite 468
+Marshallburgh, UT 58012",Nuevo Leon,Mexico,60.8244195,113.193401,94.31,3.65,82,3
+eebc3215-7dee-4043-bb11-286bd31fc824,"Freeman, Williams and Webb","08023 Aguirre Way
+Paulborough, WY 89744",Puebla,Mexico,-74.1745915,50.562413,98.1,3.59,86,3
+7f84293d-dcce-4262-ab7b-eda74ce8caa3,Anderson-Fields,"06334 Leonard Plains Suite 732
+North Andre, PW 79736",Guanajuato,Mexico,59.0593845,-172.749885,94.91,1.1,143,3
+f28ab9be-b265-4842-8b37-2f56cf1be1d1,Brown and Sons,"USNV Davis
+FPO AP 23149",Tokyo,Japan,-69.103765,-171.729853,92.81,3.96,30,4
+6b9f9f67-cce2-4042-b8d4-f777731cec5f,"Morgan, Ayala and Paul","434 Lisa Curve
+Robertsmouth, MA 50223",Osaka,Japan,-18.848582,-52.506952,99.8,2.76,68,5
+15484f2a-5371-4e34-9a0e-3c63c5ec705a,Williams-Lopez,"621 John Forge Suite 332
+Lake Angelastad, WA 68146",Aichi,Japan,-58.664135,-87.532192,99.34,2.87,165,5
+80baf01f-6594-4d2f-a6f5-9e81b8bdd9bb,"Lewis, Cruz and Fowler","898 Dominique Lake
+Bentleymouth, HI 69340",Hokkaido,Japan,83.7233165,37.67702,92.31,1.18,95,5
+dbe569ee-8e9b-488d-be2b-a781e8a1caff,"Kramer, Johnston and Rush","7272 Wright Locks Suite 282
+North Mirandaton, SD 77667",Fukuoka,Japan,-57.9283275,-75.815224,96.11,4.61,73,5
